@@ -1,4 +1,4 @@
-### Hi there, my name is Damon.
+### Hi there, my name is Damon. 👋
 
 I am currently a full-stack software engineer student at General Assembly. I have a passion in coding and would love to collaborate on any projects. Here is a list of my skills:
 - HTML, CSS, JavaScript
